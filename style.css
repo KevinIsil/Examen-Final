@@ -1,0 +1,69 @@
+.container-fluid svg{
+    height: 40px;
+    width: 40px;
+    padding: 3px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+#kevin{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#pc{
+    height: 300px;
+    width: 500px;
+}
+#medio{
+    height: 400px;
+    width: 100%;
+}
+#laptop{
+    width: 60px;
+    height: 60px;
+    padding: 7px;
+    color: greenyellow;
+}
+#imgs img{
+    height: 350px;
+    width: 350px;
+    margin: 10px;
+}
+#card ul li{
+    text-decoration: underline blue;
+}
+.carousel-control-prev-icon::after,
+.carousel-control-next-icon::after {
+  content: '';
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border: solid black;
+  border-width: 0 4px 4px 0;
+  padding: 5px;
+}
+.carousel-control-prev-icon::after {
+  transform: rotate(135deg);
+  margin-left: 5px;
+}
+.carousel-control-next-icon::after {
+  transform: rotate(-45deg);
+  margin-right: 5px;
+}
+footer{
+    height: 250px;
+}
+.icono{
+    height: 50px;
+    width: 50px;
+    padding: 3px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+.svg{
+    height: 30px;
+    width: 30px;
+    padding: 3px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
